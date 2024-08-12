@@ -12,7 +12,7 @@ This data analysis project provides comprehensive insights into the sales perfor
 
 ### Data Sources
 
-Sales Data: The primary datasets used for this analysis are "bike_share_yr_0.xlsx" and "bike_share_yr_1.xlsx," containing detailed information about each sale made by Toman Bike Shop.
+Sales Data: The primary datasets used for this analysis are "bike_share_yr_0.csv" and "bike_share_yr_1.csv," containing detailed information about each sale made by Toman Bike Shop.
 
 ### Tools
 
